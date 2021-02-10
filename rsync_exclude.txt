@@ -3,3 +3,13 @@
 .TemporaryItems
 .Trashes
 .fseventsd
+
+Library/Saved Application State
+Library/Caches
+Library/DropboxHelperTools
+
+ParentalControls
+ApplePushService
+com.apple.TCC
+Preferences/com.apple.apsd.plist
+Preferences/SystemConfiguration/preferences.plist.old
