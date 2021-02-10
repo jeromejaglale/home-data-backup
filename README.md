@@ -1,7 +1,7 @@
-# Scripts for home data backup
+# Home Data Backup
 
 ## What it is
-Scripts to backup mac user data (Appplication, hoee folder, `/Library`, and a SSD) to an external hard drive. Launched daily with `cron`.
+Shell scripts + crontab to backup my mac user data (Appplication, home folder, `/Library`, and a SSD) to an external hard drive, every night.
 
 ## Easy installation
 
