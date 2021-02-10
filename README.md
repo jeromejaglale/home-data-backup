@@ -1,7 +1,7 @@
 # Home Data Backup
 
 ## What is it?
-Shell scripts + crontab to backup my mac user data (Appplication, home folder, `/Library`, and a SSD) to an external hard drive, every night.
+Shell scripts + crontab to backup my mac user data (Applications, home folder, `/Library`, and an external SSD) to an external hard drive, every night.
 
 ## Quick install
 
