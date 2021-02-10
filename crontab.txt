@@ -1,1 +1,1 @@
-30 02 * * *  ~/bin/backup_to_external_hd.sh >> /Users/jerome/conf/log/cron.log 2>&1
+33 02 * * *  ~/bin/backup_to_external_hd.sh >> ~/log/cron.log 2>&1
