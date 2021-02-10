@@ -13,4 +13,4 @@ ln -s ${SCRIPT_DIR_FULL}/rsync_exclude.txt ~/bin/rsync_exclude.txt
 mkdir -p ~/log
 
 # install/replace crontab
-crontab ${SCRIPT_DIR_FULL}/../conf/crontab.txt
+crontab ${SCRIPT_DIR_FULL}/../crontab.txt
