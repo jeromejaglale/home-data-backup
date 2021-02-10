@@ -1,10 +1,10 @@
 # Scripts for home data backup
 
 ## What it is
-Scripts run with `cron` to backup mac user data (Appplication, hoee folder, `/Library`, and a SSD) to an external hard drive every night.
+Scripts to backup mac user data (Appplication, hoee folder, `/Library`, and a SSD) to an external hard drive. Launched daily with `cron`.
 
-## Installation
+## Easy installation
 
 ``bin/install.sh``
 
-Warning: this will create `~/bin`, `~/conf`, and will override any existing user crontab.
+Warning: this will create `~/bin` and `~/log` if necessary, and will overwrite any existing user crontab.
