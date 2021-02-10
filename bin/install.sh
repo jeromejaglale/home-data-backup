@@ -13,5 +13,8 @@ mkdir -p ~/conf
 rm -f ~/conf/rsync_exclude.txt
 ln -s ${SCRIPT_DIR_FULL}/../conf/rsync_exclude.txt ~/conf/rsync_exclude.txt
 
+# create log folder
+mkdir -p ~/conf/log
+
 # install/replace crontab
 crontab ${SCRIPT_DIR_FULL}/../conf/crontab.txt
